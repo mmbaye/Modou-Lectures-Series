@@ -3,10 +3,10 @@ in progress of  building lectures series on the use of geospatial and computer v
 we work from object detection to instance segmentation using Yolo and Segment Anything model. 
 we will demonstrate how to fine tune SAM model using drone imageries and satellite data. 
 
-1.  OpenCV 
-2 . Tensorflow
-3 . Pytorch
-4  . Drone programming with computer vision
+### OpenCV 
+### Tensorflow
+### Pytorch
+### Drone programming with computer vision
      
 
 
